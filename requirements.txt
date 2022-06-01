@@ -1,0 +1,9 @@
+pandas
+numpy
+__future__
+cv2
+matplotlib
+sklearn
+urllib
+pyinaturalist
+urllib.request
