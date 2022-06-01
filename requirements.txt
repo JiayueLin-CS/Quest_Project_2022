@@ -4,6 +4,6 @@ opencv-python
 future
 matplotlib
 sklearn
-urllib
+urllib3
 pyinaturalist
 urllib.request
