@@ -1,6 +1,7 @@
 pandas
 numpy
 opencv-python
+future
 matplotlib
 sklearn
 urllib
