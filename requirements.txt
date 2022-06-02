@@ -5,4 +5,4 @@ sklearn
 urllib3
 pyinaturalist
 urllib3
-opencv-python
+opencv-python-headless
