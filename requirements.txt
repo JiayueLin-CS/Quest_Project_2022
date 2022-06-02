@@ -1,7 +1,7 @@
 future
 pandas
 numpy
-opencv-python-headless
+opencv-python
 matplotlib
 sklearn
 urllib3
