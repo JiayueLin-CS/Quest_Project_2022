@@ -1,8 +1,9 @@
+future
 pandas
 numpy
+opencv-python-headless
 matplotlib
 sklearn
 urllib3
 pyinaturalist
 urllib3
-opencv-python-headless
