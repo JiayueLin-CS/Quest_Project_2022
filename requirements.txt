@@ -6,4 +6,4 @@ matplotlib
 sklearn
 urllib3
 pyinaturalist
-urllib3
+XlsxWriter
