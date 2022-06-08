@@ -7,3 +7,5 @@ sklearn
 urllib3
 pyinaturalist
 xlsxwriter
+scipy
+webcolors
