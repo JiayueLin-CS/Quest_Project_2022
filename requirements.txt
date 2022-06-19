@@ -9,3 +9,4 @@ pyinaturalist==0.17.0
 xlsxwriter
 scipy
 webcolors
+Pillow
